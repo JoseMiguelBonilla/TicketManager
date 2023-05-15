@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TicketManager
+build_property.RootNamespace = TicketManager
+build_property.ProjectDir = c:\Users\jose_\OneDrive\Escritorio\UCNE\PROGRAMACION APLICADA\TicketManager\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\jose_\OneDrive\Escritorio\UCNE\PROGRAMACION APLICADA\TicketManager
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/jose_/OneDrive/Escritorio/UCNE/PROGRAMACION APLICADA/TicketManager/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/jose_/OneDrive/Escritorio/UCNE/PROGRAMACION APLICADA/TicketManager/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/jose_/OneDrive/Escritorio/UCNE/PROGRAMACION APLICADA/TicketManager/Pages/R_Ocupaciones.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUl9PY3VwYWNpb25lcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/jose_/OneDrive/Escritorio/UCNE/PROGRAMACION APLICADA/TicketManager/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/jose_/OneDrive/Escritorio/UCNE/PROGRAMACION APLICADA/TicketManager/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zw013uwqu8
+
+[c:/Users/jose_/OneDrive/Escritorio/UCNE/PROGRAMACION APLICADA/TicketManager/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ncroe9jzey
+
+[c:/Users/jose_/OneDrive/Escritorio/UCNE/PROGRAMACION APLICADA/TicketManager/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/jose_/OneDrive/Escritorio/UCNE/PROGRAMACION APLICADA/TicketManager/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
